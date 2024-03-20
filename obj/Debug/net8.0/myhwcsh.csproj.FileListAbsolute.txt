@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\myhwcsh\bin\Debug\net8.0\myhwcsh.exe
+C:\Users\admin\Desktop\myhwcsh\bin\Debug\net8.0\myhwcsh.deps.json
+C:\Users\admin\Desktop\myhwcsh\bin\Debug\net8.0\myhwcsh.runtimeconfig.json
+C:\Users\admin\Desktop\myhwcsh\bin\Debug\net8.0\myhwcsh.dll
+C:\Users\admin\Desktop\myhwcsh\bin\Debug\net8.0\myhwcsh.pdb
+C:\Users\admin\Desktop\myhwcsh\obj\Debug\net8.0\myhwcsh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\myhwcsh\obj\Debug\net8.0\myhwcsh.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\myhwcsh\obj\Debug\net8.0\myhwcsh.AssemblyInfo.cs
+C:\Users\admin\Desktop\myhwcsh\obj\Debug\net8.0\myhwcsh.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\myhwcsh\obj\Debug\net8.0\myhwcsh.dll
+C:\Users\admin\Desktop\myhwcsh\obj\Debug\net8.0\refint\myhwcsh.dll
+C:\Users\admin\Desktop\myhwcsh\obj\Debug\net8.0\myhwcsh.pdb
+C:\Users\admin\Desktop\myhwcsh\obj\Debug\net8.0\myhwcsh.genruntimeconfig.cache
+C:\Users\admin\Desktop\myhwcsh\obj\Debug\net8.0\ref\myhwcsh.dll
